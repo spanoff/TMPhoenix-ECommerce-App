@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">ТМ Феникс</string>
+    <string name="action_settings">Настройки</string>
+    <string name="empty_text">Выберите песню снизу, чтобы играть</string>
+    <string name="standard">Стандарт</string>
+    <string name="title_changelog">Журнал изменений</string>
+    <string name="changelog_close">Закрыть</string>
+    <string name="action_hide">Скрыть панель</string>
+    <string name="action_show">Показать панель</string>
+    <string name="action_anchor_enable">Включить опорную точку</string>
+    <string name="action_anchor_disable">Выключить опорную точку</string>
+    <string name="idle">незанятый</string>
+    <string name="crash_toast_text">Произошел сбой</string>
+    <string name="offer_banner">"Акция. Распродажа остатков. От 560 грн за полотно"</string>
+    <string name="checkout">Выход</string>
+    <string name="similar_product">Вам также может понравиться</string>
+    <string name="slogan">Назначение</string>
+    <string name="email_developer_">Email разработчика:</string>
+    <string name="personal_website_">Адрес сайта:</string>
+    <string name="site_hitesh">www.f-door.com.ua</string>
+    <string name="contact_number">Контактый номер тел.</string>
+    <string name="mob_num">095 692 11 39</string>
+    <string name="lab_locations">Расположение</string>
+    <string name="pune">Ставить</string>
+    <string name="address_value">Украина, Запорожье</string>
+
+</resources>
