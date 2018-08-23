@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *  @author Hitesh Sahu (hiteshsahu.com)
+ *  @author Alexender Panov(itq.space)
  */
 public class CategoryListAdapter extends
 		RecyclerView.Adapter<CategoryListAdapter.VersionViewHolder> {
